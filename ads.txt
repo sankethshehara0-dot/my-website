@@ -1,0 +1,2 @@
+# After AdSense approval, add the exact seller declaration provided in your AdSense account.
+# Do not invent a publisher ID or copy another publisher's declaration.
